@@ -12,9 +12,7 @@ public class Strategy {
 	@Id
 	@GeneratedValue
 	private Integer id;
-	
 	private String type;
-	
 	private String name;
 
 	public Integer getId() {
@@ -40,5 +38,4 @@ public class Strategy {
 	public void setName(String name) {
 		this.name = name;
 	}
-
 }
