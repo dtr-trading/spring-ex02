@@ -1,7 +1,7 @@
 spring-ex02
 ===========
 
-This is example builds on spring-ex01, where Spring Java configuration files replaced the standard Spring MVC template XML files created by STS in Eclipse.  In addition, this code shows an end-to-end example of:
+This example builds on spring-ex01, where Spring Java configuration files replaced the standard Spring MVC template XML files created by STS in Eclipse.  In addition, this code shows an end-to-end example of:
 
 MySQL -> Hibernate -> Spring MVC -> JSP
 
